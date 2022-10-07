@@ -1,0 +1,21 @@
+baseURL = 'https://sacramento-state-biology-collections.github.io/'
+languageCode = 'en-us'
+title = 'CSUS Department of Biological Sciences Collections'
+theme = 'mainroad'
+
+[Params]
+  description = "Documentation and information site for the CSUS Biology Despartments Collections" # Site description. Used in meta description
+  readmore = false # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  mainSections = ["posts", "news", "documentation"] # Specify section pages to show on home page and the "Recent articles" widget
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+
+[Params.style.vars]
+  highlightColor = "#043927" # Override highlight color
+
+[Params.logo]
+  image = "img/Primary_Vertical_3_Color_gld_hnd.png" # Logo image. Path relative to "static"
+  title = "Biological Collections" # Logo title, otherwise will use site title
+  subtitle = "The CSUS Biology Departments Collections and Databases" # Logo subtitle
