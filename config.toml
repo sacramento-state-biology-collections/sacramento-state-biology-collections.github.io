@@ -19,3 +19,31 @@ theme = 'mainroad'
   image = "img/Primary_Vertical_3_Color_gld_hnd.png" # Logo image. Path relative to "static"
   title = "Biological Collections" # Logo title, otherwise will use site title
   subtitle = "The CSUS Biology Departments Collections and Databases" # Logo subtitle
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+# Add menu
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Documentation"
+    url = "/documentation/"
+    weight = 2
+  [[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 3
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
