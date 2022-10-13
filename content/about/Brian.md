@@ -91,7 +91,7 @@ Merit Badge Counsler
 | Java | Proficent | 5 years |
 | Python | Proficent | 5 years |
 | C | Proficent | 5 years |
-| Linux | Copetent | 7 years |
+| Linux | Competent | 7 years |
 | Git | Proficent | 5 years |
 | Docker | Proficent | 4 years |
 | GCP | Proficent | 4 years |
