@@ -13,13 +13,13 @@ Progressive Web Apps (PWAs) are a new way to build web applications that are fas
 
 PWAs use web-platform technologies to deliver an app-like experience to users. Technologies like Service Workers, Web App Manifests, and Push Notifications allow PWAs to provide a native-like experience to users. PWAs are also discoverable, installable, linkable, and shareable. In combination with *Progressive Enhancement*, PWAs are a great way to build web applications that work for everyone. 
 
-### Architectural patterns for PWAs
+### Architectural Patterns for PWAs
 
 There are two main architectural patterns for PWAs: Single Page Applications (SPAs) and Multi-Page Applications (MPAs).
 
 ---
 
-SPAs are built using a single HTML page and use JavaScript to dynamically update the page. 
+SPAs are built using a single HTML page and JavaScript to dynamically update the page. 
 
 > Pros
 > - Mostly atomic in-page updates.
@@ -33,7 +33,7 @@ SPAs are built using a single HTML page and use JavaScript to dynamically update
 
 ---
 
-MPAs are built using multiple HTML pages and use JavaScript to dynamically update the page. 
+MPAs are built using multiple HTML pages and JavaScript to dynamically update the page. 
 
 > Pros
 > - Mostly full-page updates.
@@ -47,9 +47,9 @@ MPAs are built using multiple HTML pages and use JavaScript to dynamically updat
 
 SPAs are more performant than MPAs, but MPAs are easier to develop and maintain.
 
-### The power of Service Workers!
+### The Power of Service Workers!
 
-The service worker is a script that runs in the background of a web application. It is a JavaScript file that can intercept network requests, cache resources, and push notifications to the user. Service workers are a great way to provide a native-like experience to users. Also, the service worker has alot of power beyond basic routing, cache management, and networking as it can be used to provide offline support, background sync, and much more complicated features.
+The service worker is a script that runs in the background of a web application. It is a JavaScript file that can intercept network requests, cache resources, and push notifications to the user. Service workers are a great way to provide a native-like experience to users. Also, the service worker has a lot of power beyond basic routing, cache management, and networking as it can be used to provide offline support, background sync, and many more complex features.
 
 ### The Web App Manifest
 
@@ -65,7 +65,7 @@ Background Sync allows users to continue using your web application even when th
 
 ### The PWA Checklist
 
-The PWA Checklist is a great way to ensure that your web application is a PWA. The PWA Checklist provides a list of requirements that a web application must meet to be considered a PWA. The PWA Checklist is a great way to ensure that your web application meets the requirements of a PWA.
+The PWA Checklist is a great way to ensure that your web application is a PWA. The PWA Checklist provides a list of requirements that a web application must meet to be considered a PWA.
 
 ### External Resources
 
