@@ -47,3 +47,8 @@ theme = 'mainroad'
     name = "About"
     url = "/about/"
     weight = 5
+
+# Allow html in markdown
+[markup.goldmark.renderer]
+  unsafe = true
+
