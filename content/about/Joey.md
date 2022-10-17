@@ -2,6 +2,7 @@
 title: "Meet Joey May"
 date: 2022-10-08T21:03:22-07:00
 draft: false
+toc: false
 ---
 
 # I am Joey May
@@ -12,11 +13,15 @@ I am a Computer Science student working towards my Bachelor's Degree at Californ
 
 California State University, Sacramento
 - August 2019 - Present
-- Bachelorof Science, Computer Science
-- Expected Graduation: May 2022
+- Bachelor of Science, Computer Science
+- Expected Graduation: May 2023
 
 ## Skills
 
 | Skills | Proficiency | Experience |
 | --- | --- | --- |
-| Java | Proficent | 3 years |
+| Java | Proficient | 3 Years |
+| HTML | Proficient | 2 Years |
+| PHP | Competent | 2 Years |
+| C | Competent | 1 Year |
+| JavaScript | Competent | 1 Year |

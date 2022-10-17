@@ -6,7 +6,7 @@ title: "About"
 ```
 Name: Brian Almaguer
 Email address: balmaguer@csus.edu
-Phone number: (661) 667 - 5303
+Phone number: (661) 667-5303
 
 Name: Evan Boswell
 Email address: eboswell@csus.com
@@ -26,7 +26,7 @@ Phone number: (916) 470-6704
 
 Name: Lukas Dolansky
 Email address: LukasDolansky@csus.edu
-Phone number: (978)886-9130
+Phone number: (978) 886-9130
 
 Name: Leonardo Aguarino
 Email address: languiano@csus.edu

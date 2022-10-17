@@ -2,6 +2,7 @@
 title: "Meet Brian Almaguer"
 date: 2022-10-08T21:00:41-07:00
 draft: false
+toc: false
 ---
 
 ## I am Brian Almaguer
@@ -10,19 +11,19 @@ draft: false
 
 </br>
 
-I am a Computer Science Student working on my Bachelor’s Degree in Computer Science at California State University, Sacramento. I am one of the eight students working on a seinor project for the biology department at scarmaento state.
+I am a Computer Science Student working on my Bachelor’s Degree in Computer Science at California State University, Sacramento. I am one of the eight students working on a senior project for the biology department at sacramento state.
 
 ## Education
 ---
 California State University, Sacramento
   - August 2018 - Present
   - Bachelor of Science in Computer Science
-  - Expected Graduation: May 2022
+  - Expected Graduation: May 2023
 
 Bakersfield College
   - June 2014 - June 2018
   - Associate's in AG Business as a Dual Enrollment Student
-  - Compleation: Not Completed
+  - Completion: Not Completed
   - Reason: Transferred to CSUS
 
 ## Work Experiance
@@ -86,13 +87,13 @@ Merit Badge Counsler
 
 ## Skills
 
-| Skills | Proficiency | Experiance |
+| Skills | Proficiency | Experience |
 | --- | --- | --- |
-| Java | Proficent | 5 years |
-| Python | Proficent | 5 years |
-| C | Proficent | 5 years |
+| Java | Proficient | 5 years |
+| Python | Proficient | 5 years |
+| C | Proficient | 5 years |
 | Linux | Competent | 7 years |
-| Git | Proficent | 5 years |
-| Docker | Proficent | 4 years |
-| GCP | Proficent | 4 years |
-| Azure | Proficent | 2 years |
+| Git | Proficient | 5 years |
+| Docker | Proficient | 4 years |
+| GCP | Proficient | 4 years |
+| Azure | Proficient | 2 years |
