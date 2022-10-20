@@ -2,6 +2,7 @@
 title: "Meet Kelly"
 date: 2022-10-12T18:27:39-07:00
 draft: false
+toc: false
 ---
 
 ## I am Kelly Bringino
@@ -17,7 +18,7 @@ I am a Computer Science Student working on my Bachelor’s Degree in Computer Sc
 California State University, Sacramento
   - August 2018 - Present
   - Bachelor of Science in Computer Science
-  - Expected Graduation: May 2022
+  - Expected Graduation: May 2023
 
 ## Work Experiance
 ---
@@ -26,13 +27,13 @@ The UPS store sales associate
 
 ## Skills
 
-| Skills | Proficiency | Experiance |
+| Skills | Proficiency | Experience |
 | --- | --- | --- |
-| Java | Proficent | 5 years |
-| Javascript | proficient | 2 years |
-| Python | Proficent | 2 years |
+| Java | Proficient | 5 years |
+| Javascript | Proficient | 2 years |
+| Python | Proficient | 2 years |
 | C# | Proficient | 8 years |
 | C++ | Proficient | 4 years |
-| C | Proficent | 3 years |
+| C | Proficient | 3 years |
 | Git | Competent | 2 years |
 | Brainfuck | Competent | 1 year |
