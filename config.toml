@@ -47,8 +47,10 @@ theme = 'mainroad'
     name = "About"
     url = "/about/"
     weight = 5
-
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 6
 # Allow html in markdown
 [markup.goldmark.renderer]
   unsafe = true
-
