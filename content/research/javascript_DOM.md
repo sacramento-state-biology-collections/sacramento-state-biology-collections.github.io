@@ -38,6 +38,12 @@ document.getElementByID("text").value = str;
 ```
 You've successfully modified an HTML document! There are many other things you can do with other types of HTML elements. As long as it has an id, you're free to make all the changes you want.
 
+## Link to a Code Demo
+
+You can download and experiment on an HTML and javascript file [Here](https://github.com/sacramento-state-biology-collections/demo/tree/Joey's-Demos/Javascript%20and%20DOM)
+
+Download the 2 files, open them in VS code, and open the HTML in the browser. Experiment with the two files as much as you like.
+
 ## Further Reading
 
 [JavaScript DOM Detailed Info](https://www.w3schools.com/js/js_htmldom.asp)
