@@ -20,5 +20,6 @@ I am a student at California State University, Sacrament who is working towards 
 | --- | --- | --- |
 | Java | Proficient | 3 Years |
 | C | Proficient | 2 Years |
+| C++ | Compentent | 1 Year |
 | Python | Compentent | 1 Year |
 | JavaScript | Compentent | 1 Year | 
