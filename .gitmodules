@@ -1,3 +1,6 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad.git
+[submodule "static/BRE"]
+	path = static/BRE
+	url = https://github.com/sacramento-state-biology-collections/BRE
