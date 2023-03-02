@@ -38,8 +38,14 @@ draft: false
 
 ---
 
-#### Modifying Collection View
+#### Modify Collection View
 
 <center><img src="/img/mockups/login prototype3.png" alt="test"/></center>
+
+---
+
+## Diagram
+
+<center><img src="/img/mockups/mockup diagram.png" alt="test"/></center>
 
 ---
