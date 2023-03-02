@@ -30,11 +30,17 @@ draft: false
 
 ---
 
-## Admin View Mockup | Sprint 6
+## Admin View Mockups | Sprint 6
+
+#### Admin View
 
 <center><img src="/img/mockups/admin prototype.png" alt="test"/></center>
 
 ---
+
+#### Admin Settings View
+
+<center><img src="/img/mockups/admin settings mockup.jpg" alt="test"/></center>
 
 ## Diagram
 
