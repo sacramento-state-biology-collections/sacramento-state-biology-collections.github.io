@@ -24,23 +24,15 @@ draft: false
 
 ---
 
-## Admin Page Mockups | Sprint 4
-
-#### Welcome View
+## Welcome View Mockup | Sprint 4
 
 <center><img src="/img/mockups/login prototype1.png" alt="test"/></center>
 
 ---
 
-#### Admin View
+## Admin View Mockup | Sprint 6
 
-<center><img src="/img/mockups/login prototype2.png" alt="test"/></center>
-
----
-
-#### Modify Collection View
-
-<center><img src="/img/mockups/login prototype3.png" alt="test"/></center>
+<center><img src="/img/mockups/admin prototype.png" alt="test"/></center>
 
 ---
 
