@@ -42,6 +42,8 @@ draft: false
 
 <center><img src="/img/mockups/admin settings mockup.jpg" alt="test"/></center>
 
+---
+
 ## Diagram
 
 <center><img src="/img/mockups/mockup diagram.png" alt="test"/></center>
